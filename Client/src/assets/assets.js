@@ -102,7 +102,7 @@ export const dummyChats = [
             }
         ],
         "createdAt": "2025-08-14T13:29:31.398Z",
-        "updatedAt": "2025-08-14T13:29:54.753Z",
+        "updatedAt": "2025-09-16T13:29:54.753Z",
     },
     {
         "_id": "689ccb9016a922dd57a23fce",
@@ -113,7 +113,7 @@ export const dummyChats = [
                 "isImage": false,
                 "isPublished": false,
                 "role": "user",
-                "content": "hello ",
+                "content": "Hello",
                 "timestamp": 1755106415912,
             },
             {
